@@ -1,4 +1,4 @@
-# Kanji Tamago - Kanji Lists
+# Kanji Tamago—Kanji Lists
 
 ## Contents
 
@@ -12,7 +12,30 @@
 
 | Name | Value |
 |------|-------|
-| Book Details | 🌐 <https://publishing.bonjinsha.co.jp/support/kanjitamago> |
+| Kanji files | 👉 [`beginner/`](beginner) |
+| Number of kanji | 162 |
+| JLPT level | N5-N4 |
+| Book details | 🌐 <https://publishing.bonjinsha.co.jp/support/kanjitamago> |
+
+### Kanji List
+
+| Chapter | Kanji |
+|:-------:|-------|
+| **1** | 私 人 才 学 生 校 日 本 語 |
+| **2** | 一 二 三 四 五 六 七 八 九 十 百 千 万 円 |
+| **3** | 月 火 水 木 金 土 曜 何 年 時 間 分 |
+| **4** | 東 京 名 前 国 男 女 区 市 |
+| **5** | 先 週 毎 午 後 見 食 飲 買 物 行 休 |
+| **6** | 今 来 帰 会 社 聞 読 書 話 寺 言 貝 田 力 門 |
+| **7** | 肉 料 理 野 半 大 小 |
+| **8** | 家 族 父 母 兄 弟 姉 妹 犬 高 長 短 |
+| **9** | 好 歌 音 楽 車 映 画 旅 海 外 |
+| **10** | 駅 上 下 地 図 館 右 左 道 |
+| **11** | 起 歩 乗 始 終 勉 強 朝 昼 夜 |
+| **12** | 体 目 耳 口 歯 病 院 薬 局 |
+| **13** | 世 界 春 夏 秋 冬 早 夕 予 約 光 |
+| **14** | 入 出 持 立 使 用 中 新 古 注 意 止 |
+| **15** | 天 気 雨 台 風 多 低 度 交 通 死 |
 
 ## Pre-Intermediate
 
@@ -20,7 +43,30 @@
 
 | Name | Value |
 |------|-------|
-| Book Details | 🌐 <https://publishing.bonjinsha.co.jp/support/kanjitamago> |
+| Kanji files | 👉 [`pre-intermediate/`](pre-intermediate) |
+| Number of kanji | 164 |
+| JLPT level | N4 |
+| Book details | 🌐 <https://publishing.bonjinsha.co.jp/support/kanjitamago> |
+
+### Kanji List
+
+| Chapter | Kanji |
+|:-------:|-------|
+| **1** | 仕 事 働 教 泳 英 運 転 方 留 |
+| **2** | 服 品 電 別 引 送 切 安 開 閉 |
+| **3** | 進 試 験 卒 業 説 明 写 真 願 部 科 |
+| **4** | 住 所 民 役 知 問 合 定 員 無 集 友 |
+| **5** | 急 特 線 回 遅 忘 待 取 消 残 心 主 糸 刀 |
+| **6** | 子 親 代 屋 内 自 由 発 着 遠 |
+| **7** | 牛 魚 飯 菜 味 色 茶 少 洗 弱 暗 |
+| **8** | 広 便 利 建 近 空 室 和 洋 有 |
+| **9** | 足 手 元 作 返 者 林 森 村 山 川 |
+| **10** | 場 動 公 園 鳥 遊 池 店 売 産 軽 |
+| **11** | 工 医 紙 町 南 以 初 借 貸 押 |
+| **12** | 頭 顔 首 走 声 重 太 計 不 痛 |
+| **13** | 文 研 究 課 題 習 堂 席 欠 全 |
+| **14** | 都 県 北 西 正 花 祭 青 黒 白 赤 |
+| **15** | 漢 字 暑 寒 去 質 答 同 思 考 銀 悪 |
 
 ## Intermediate
 
@@ -28,11 +74,12 @@
 
 | Name | Value |
 |------|-------|
-| Kanji lists | 👉 [`intermediate/`](intermediate) |
-| Kanji Intermediate 1 | 356 |
-| Kanji Intermediate 2 | 352 |
-| Kanji Total | 708 |
-| Book Details | 🌐 <https://publishing.bonjinsha.co.jp/support/kanjitamago_intermediate> |
+| Kanji files | 👉 [`intermediate/`](intermediate) |
+| Number of kanji in _Intermediate 1_ | 356 |
+| Number of kanji in _Intermediate 2_ | 352 |
+| Total number of kanji | 708 |
+| JLPT level | N3 + N2 |
+| Book details | 🌐 <https://publishing.bonjinsha.co.jp/support/kanjitamago_intermediate> |
 
 ### Kanji Lists
 
