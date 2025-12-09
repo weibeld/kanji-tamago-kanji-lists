@@ -1,12 +1,19 @@
-# Kanji Tamago—Kanji Lists
+# Kanji Tamago - Kanji Lists
+
+Text files with the extracted kanji lists from the [Kanji Tamago](https://publishing.bonjinsha.co.jp/support/kanjitamago) books.
+
+The text files are suitable to be imported into apps like [Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy). 
+
+> ℹ️  **Note:** together, the various Kanji Tamago volumes (Beginner, Pre-Intermediate, and two Intermediate volumes) include **1034 kanji** which cover up to and including **JLPT N2** level.
+
 
 ## Contents
 
-1. **[Beginner](#beginner)**
-2. **[Pre-Intermediate](#pre-intermediate)**
-3. **[Intermediate](#intermediate)**
+1. **[Kanji Tamago Beginner](#kanji-tamago-beginner)**
+2. **[Kanji Tamago Pre-Intermediate](#kanji-tamago-pre-intermediate)**
+3. **[Kanji Tamago Intermediate 1 & 2](#kanji-tamago-intermediate-1--2)**
 
-## Beginner
+## Kanji Tamago Beginner
 
 <img src="assets/img/kanji-tamago-beginner.png" width="150" alt="Kanji Tamago - Beginner">
 
@@ -37,7 +44,7 @@
 | **14** | 入 出 持 立 使 用 中 新 古 注 意 止 |
 | **15** | 天 気 雨 台 風 多 低 度 交 通 死 |
 
-## Pre-Intermediate
+## Kanji Tamago Pre-Intermediate
 
 <img src="assets/img/kanji-tamago-preintermediate.png" width="150" alt="Kanji Tamago - Preintermediate">
 
@@ -68,7 +75,7 @@
 | **14** | 都 県 北 西 正 花 祭 青 黒 白 赤 |
 | **15** | 漢 字 暑 寒 去 質 答 同 思 考 銀 悪 |
 
-## Intermediate
+## Kanji Tamago Intermediate 1 & 2
 
 <img src="assets/img/kanji-tamago-intermediate-1.png" width="150" alt="Kanji Tamago - Intermediate 1"> <img src="assets/img/kanji-tamago-intermediate-2.png" width="150" alt="Kanji Tamago - Intermediate 2">
 
