@@ -44,6 +44,8 @@ The text files are suitable to be imported into apps like [Japanese Kanji Study]
 | **14** | 入 出 持 立 使 用 中 新 古 注 意 止 |
 | **15** | 天 気 雨 台 風 多 低 度 交 通 死 |
 
+[⬆️ Back to Contents](#contents)
+
 ## Kanji Tamago Pre-Intermediate
 
 <img src="assets/img/kanji-tamago-preintermediate.png" width="150" alt="Kanji Tamago - Preintermediate">
@@ -74,6 +76,8 @@ The text files are suitable to be imported into apps like [Japanese Kanji Study]
 | **13** | 文 研 究 課 題 習 堂 席 欠 全 |
 | **14** | 都 県 北 西 正 花 祭 青 黒 白 赤 |
 | **15** | 漢 字 暑 寒 去 質 答 同 思 考 銀 悪 |
+
+[⬆️ Back to Contents](#contents)
 
 ## Kanji Tamago Intermediate 1 & 2
 
@@ -119,3 +123,5 @@ The text files are suitable to be imported into apps like [Japanese Kanji Study]
 | **18** | 環 境 球 捨 固 植 詰 省 排 極 氷 溶 陽 規 制 鉱 炭 濃 滅 批 判 条 許 密 護 諸 策 湾 破 壊 豊 善 漁 埋 処 |
 | **19** | 宇 宙 砂 底 浮 則 骨 層 掘 脳 損 傷 態 仮 測 疑 議 虫 草 岩 泥 浅 枯 鳴 群 陸 液 湯 沸 操 薄 型 独 充 了 |
 | **20** | 象 供 賛 肯 倍 差 占 傾 含 共 困 暮 総 補 権 構 針 双 著 略 退 奥 娘 勢 富 賢 偉 努 労 尊 敬 競 勝 負 貯 |
+
+[⬆️ Back to Contents](#contents)
