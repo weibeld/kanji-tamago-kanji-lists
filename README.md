@@ -19,7 +19,7 @@ The text files are suitable to be imported into apps like [Japanese Kanji Study]
 
 | Name | Value |
 |------|-------|
-| Kanji files | 👉 [`beginner/`](beginner) |
+| Kanji files | 👉 [`kanji-lists/kanji-tamago-1-beginner/`](kanji-lists/kanji-tamago-1-beginner) |
 | Number of kanji | 162 |
 | JLPT level | N5-N4 |
 | Book details | 🌐 <https://publishing.bonjinsha.co.jp/support/kanjitamago> |
@@ -52,7 +52,7 @@ The text files are suitable to be imported into apps like [Japanese Kanji Study]
 
 | Name | Value |
 |------|-------|
-| Kanji files | 👉 [`pre-intermediate/`](pre-intermediate) |
+| Kanji files | 👉 [`kanji-lists/kanji-tamago-2-pre-intermediate/`](kanji-lists/kanji-tamago-2-pre-intermediate) |
 | Number of kanji | 164 |
 | JLPT level | N4 |
 | Book details | 🌐 <https://publishing.bonjinsha.co.jp/support/kanjitamago> |
@@ -85,7 +85,7 @@ The text files are suitable to be imported into apps like [Japanese Kanji Study]
 
 | Name | Value |
 |------|-------|
-| Kanji files | 👉 [`intermediate/`](intermediate) |
+| Kanji files | 👉 [`kanji-lists/kanji-tamago-3-intermediate/`](kanji-lists/kanji-tamago-3-intermediate) |
 | Number of kanji in _Intermediate 1_ | 356 |
 | Number of kanji in _Intermediate 2_ | 352 |
 | Total number of kanji | 708 |
