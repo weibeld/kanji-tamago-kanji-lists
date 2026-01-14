@@ -1,18 +1,23 @@
-# Kanji Tamago - Kanji Lists
+# 「Kanji Tamago」Kanji Lists
 
-Text files with the extracted kanji lists from the [Kanji Tamago](https://publishing.bonjinsha.co.jp/support/kanjitamago) books.
-
-The text files are suitable to be imported into apps like [Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy). 
-
-> ℹ️  **Note:** together, the various Kanji Tamago volumes (Beginner, Pre-Intermediate, and two Intermediate volumes) include **1034 kanji** which cover up to and including **JLPT N2** level.
-
+Full per-chapter kanji sets of the  [Kanji Tamago](https://publishing.bonjinsha.co.jp/support/kanjitamago) textbook series (Beginner, Pre-Intermediate, and Intermediate levels) as CSV files.
 
 ## Contents
 
-1. [**Beginner (初級)**](#beginner-new-初級)
-2. [**Pre-Intermediate (初中級)**](#pre-intermediate-初中級)
-3. [**Intermediate, Part 1 & 2 (中級)**](#intermediate-part-1--2-中級)
+- [**Introduction**](#introduction)
+- [**Beginner (初級)**](#beginner-初級)
+- [**Pre-Intermediate (初中級)**](#pre-intermediate-初中級)
+- [**Intermediate, Part 1 & 2 (中級)**](#intermediate-part-1--2-中級)
 
+## Introduction
+
+The [Kanji Tamago](https://publishing.bonjinsha.co.jp/support/kanjitamago) textbook series (Beginner, Pre-Intermediate, and Intermediate Part 1 & 2) cover a total of 1034 kanji which correspond to the set of kanjis required for JLPT N2.
+
+The files in this repository can be imported into various applications, such as [Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy), for studying and other purposes.
+
+> For importing into the Japanese Kanji Study app, it might be necessary to change the extension of the files from `.csv` to `.txt`.
+
+[⬆️ Back to Contents](#contents)
 
 ## Beginner (初級)
 
