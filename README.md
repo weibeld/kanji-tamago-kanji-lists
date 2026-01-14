@@ -11,7 +11,7 @@ Full per-chapter kanji sets of the  [Kanji Tamago](https://publishing.bonjinsha.
 
 ## Introduction
 
-The [Kanji Tamago](https://publishing.bonjinsha.co.jp/support/kanjitamago) textbook series (Beginner, Pre-Intermediate, and Intermediate Part 1 & 2) cover a total of 1034 kanji which correspond to the set of kanjis required for JLPT N2.
+The [Kanji Tamago](https://publishing.bonjinsha.co.jp/support/kanjitamago) textbook series (Beginner, Pre-Intermediate, and Intermediate Part 1 & 2) covers a total of 1034 kanji which correspond to the set of kanji required for JLPT N2.
 
 The files in this repository can be imported into various applications, such as [Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy), for studying and other purposes.
 
@@ -55,7 +55,7 @@ The files in this repository can be imported into various applications, such as 
 
 ## Pre-Intermediate (初中級)
 
-<img src="assets/img/kanji-tamago-2-preintermediate.png" width="150" alt="Kanji Tamago - Preintermediate">
+<img src="assets/img/kanji-tamago-2-preintermediate.png" width="150" alt="Kanji Tamago - Pre-Intermediate">
 
 | Name            | Value                                                                                            |
 |-----------------|--------------------------------------------------------------------------------------------------|
@@ -89,7 +89,7 @@ The files in this repository can be imported into various applications, such as 
 
 ## Intermediate, Part 1 & 2 (中級)
 
-<img src="assets/img/kanji-tamago-3-intermediate-1.png" width="150" alt="Kanji Tamago - Intermediate 1"> <img src="assets/img/kanji-tamago-3-intermediate-2.png" width="150" alt="Kanji Tamago - Intermediate 2">
+<img src="assets/img/kanji-tamago-3-intermediate-1.png" width="150" alt="Kanji Tamago - Intermediate Part 1"> <img src="assets/img/kanji-tamago-3-intermediate-2.png" width="150" alt="Kanji Tamago - Intermediate Part 2">
 
 | Name            | Value                                                                                    |
 |-----------------|------------------------------------------------------------------------------------------|
